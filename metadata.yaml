@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37802'
     url: http://www.gutenberg.org/2009/agents/37802
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35648#Mayne-ReidA-Memoir-of-his-Life
 gutenberg_issued: '2011-03-21'
 gutenberg_type: Text
 identifiers:
